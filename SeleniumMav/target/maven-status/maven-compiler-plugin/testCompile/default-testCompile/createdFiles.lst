@@ -1,0 +1,6 @@
+pages\Mainclass.class
+com\practice\SeleniumMav\AppTest.class
+com\practice\SeleniumMav\InputData.class
+pages\LoginPage.class
+com\practice\SeleniumMav\InputDataForLoop.class
+testcases\ApplicationLogin.class
